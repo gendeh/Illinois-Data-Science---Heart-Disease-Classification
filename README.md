@@ -1,4 +1,4 @@
-# Illinois Data Science Club Spring 2023 Team CWMDSJ Project
+# Illinois Data Science Club Fall 2023 Team CWMDSJ Project
 
 ## Introduction
 
